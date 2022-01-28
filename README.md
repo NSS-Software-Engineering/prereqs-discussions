@@ -1,2 +1,1 @@
-# prereqs-discussion
-Home of the NSS Software Engineering Prerequisite Course Discussion Forum
+# [NSS Prerequisite Course Discussion Forum](https://github.com/NSS-Software-Engineering/prereqs-discussions/discussions)
